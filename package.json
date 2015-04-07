@@ -1,6 +1,6 @@
 {
   "name": "parse-stl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "STL (ASCII and binary) file parser",
   "main": "index.js",
   "scripts": {
