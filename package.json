@@ -1,0 +1,25 @@
+{
+  "name": "parse-stl",
+  "version": "1.0.0",
+  "description": "STL (ASCII and binary) file parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/parse-stl.git"
+  },  
+  "keywords": [
+    "stl",
+    "format",
+    "mesh",
+    "buffer"
+  ],
+  "author": "thibauts",
+  "license": "MIT",
+  "dependencies": {
+    "parse-stl-ascii": "^1.0.0",
+    "parse-stl-binary": "^1.0.0"
+  }
+}
