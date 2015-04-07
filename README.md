@@ -6,7 +6,7 @@ Parses an [STL](http://en.wikipedia.org/wiki/STL_%28file_format%29) (STereoLitho
 
 This module works well with [merge-vertices](https://github.com/thibauts/merge-vertices) to deduplicate identical vertices from different faces.
 
-* ASCII files having faces with more than 3 vertices will have to be triangulated for use with [simplicial-complex](https://github.com/mikolalysenko/simplicial-complex). One option is using [earcut](https://github.com/mapbox/earcut).
+\* ASCII files having faces with more than 3 vertices will have to be triangulated for use with [simplicial-complex](https://github.com/mikolalysenko/simplicial-complex). One option is using [earcut](https://github.com/mapbox/earcut).
 
 Install
 -------
